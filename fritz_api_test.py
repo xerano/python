@@ -1,3 +1,5 @@
+# read temperature from fritz dect 200
+
 import requests
 import hashlib
 import xml.etree.ElementTree as ET
